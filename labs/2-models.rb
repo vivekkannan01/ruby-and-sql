@@ -59,8 +59,6 @@ vivek.save
 
 puts "Sales Team:"
 
-
-
 salespeople = Salesperson.all
 
 for person in salespeople
